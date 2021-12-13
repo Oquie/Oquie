@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Oquie
+- 👀 I’m interested in learning python and how to automate scripts using python
